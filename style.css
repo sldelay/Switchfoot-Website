@@ -1,0 +1,12 @@
+.aboutband {
+    color: blue;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
